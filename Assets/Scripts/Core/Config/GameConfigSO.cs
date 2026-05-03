@@ -33,6 +33,10 @@ namespace ProjectManatite.Core
         [Tooltip("Default max travel distance before a projectile self-despawns.")]
         public float ProjectileDefaultMaxDistance = 10f;
 
+        [Header("Settings")]
+        [Tooltip("Seconds before an unconfirmed resolution change auto-reverts.")]
+        public float ResolutionRevertDuration = 15f;
+
         [Header("Save System")]
         [Tooltip("Save file name placed under Application.persistentDataPath.")]
         public string SaveFileName = "save.json";
