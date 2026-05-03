@@ -58,8 +58,8 @@ public class TriggerMovement : MonoBehaviour
         }
     }
 
-    public void StartMenu()
+    public void StartMenu(bool instant = false)
     {
-        if (ch != null) StartCoroutine(ch.FadeIn(menuFadeDurationSeconds));
+        if (ch != null) StartCoroutine(ch.FadeIn(instant ? 0f : menuFadeDurationSeconds));
     }
 }

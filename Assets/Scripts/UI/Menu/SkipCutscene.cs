@@ -66,7 +66,7 @@ public class SkipCutscene : MonoBehaviour
             shipScript.RemoveParticles();
         }
 
-        if (menuHandler != null) menuHandler.StartMenu();
+        if (menuHandler != null) menuHandler.StartMenu(true);
         if (background != null) background.TriggerStartMoving();
     }
 }
