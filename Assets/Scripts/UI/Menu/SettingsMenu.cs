@@ -124,6 +124,11 @@ public class SettingsMenu : MonoBehaviour
         PlayerPrefs.SetInt("ResolutionPreference", resolutionIndex);
     }
 
+    public void Open()
+    {
+        gameObject.SetActive(true);
+    }
+
     public void CloseSettings()
     {
         gameObject.SetActive(false);
