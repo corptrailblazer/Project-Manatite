@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9bc39bc390477dd4483fa85d7dc192f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8144144492706666954
+    second: "SpriteDestro\xE7os_0"
+  - first:
+      213: -7537793497942109293
+    second: "SpriteDestro\xE7os_1"
+  - first:
+      213: -2847039442330841526
+    second: "SpriteDestro\xE7os_2"
+  - first:
+      213: -2104855288587964163
+    second: "SpriteDestro\xE7os_3"
+  - first:
+      213: 4567506925199453051
+    second: "SpriteDestro\xE7os_4"
+  - first:
+      213: -368277589732061847
+    second: "SpriteDestro\xE7os_5"
+  - first:
+      213: -7357483735119755682
+    second: "SpriteDestro\xE7os_6"
+  - first:
+      213: 2483301593273950484
+    second: "SpriteDestro\xE7os_7"
+  - first:
+      213: -5161618322322909371
+    second: "SpriteDestro\xE7os_8"
+  - first:
+      213: -2538808816478932639
+    second: "SpriteDestro\xE7os_9"
+  - first:
+      213: 8233985115394394034
+    second: "SpriteDestro\xE7os_10"
+  - first:
+      213: -3012869431617986030
+    second: "SpriteDestro\xE7os_11"
+  - first:
+      213: -5196467896950723970
+    second: "SpriteDestro\xE7os_12"
+  - first:
+      213: -5082304393626738668
+    second: "SpriteDestro\xE7os_13"
+  - first:
+      213: 6126402133743730530
+    second: "SpriteDestro\xE7os_14"
+  - first:
+      213: 4455065631727996703
+    second: "SpriteDestro\xE7os_15"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_0"
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac91c3f3440d50170800000000000000
+      internalID: 8144144492706666954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_1"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 75
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39359e420c0646790800000000000000
+      internalID: -7537793497942109293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_2"
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 87
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e085226b84d78d0800000000000000
+      internalID: -2847039442330841526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_3"
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 84
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0bc1c544d0ac2e0800000000000000
+      internalID: -2104855288587964163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_4"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 75
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b66a9495b036f30800000000000000
+      internalID: 4567506925199453051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_5"
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 60
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d884dbb7d93eaf0800000000000000
+      internalID: -368277589732061847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_6"
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 64
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5609774687f4e990800000000000000
+      internalID: -7357483735119755682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_7"
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 60
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411614954a5767220800000000000000
+      internalID: 2483301593273950484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_8"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 64
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5479bc7bb7f3e58b0800000000000000
+      internalID: -5161618322322909371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_9"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 57
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161b42525d654ccd0800000000000000
+      internalID: -2538808816478932639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_10"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7cfe046ddf44270800000000000000
+      internalID: 8233985115394394034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_11"
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 22
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e6cdf6332036d0800000000000000
+      internalID: -3012869431617986030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_12"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ae783daff62e7b0800000000000000
+      internalID: -5196467896950723970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_13"
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 11
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410a879c4170879b0800000000000000
+      internalID: -5082304393626738668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_14"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f7df4184a550550800000000000000
+      internalID: 6126402133743730530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "SpriteDestro\xE7os_15"
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1fc23e869293dd30800000000000000
+      internalID: 4455065631727996703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "SpriteDestro\xE7os_0": 8144144492706666954
+      "SpriteDestro\xE7os_1": -7537793497942109293
+      "SpriteDestro\xE7os_10": 8233985115394394034
+      "SpriteDestro\xE7os_11": -3012869431617986030
+      "SpriteDestro\xE7os_12": -5196467896950723970
+      "SpriteDestro\xE7os_13": -5082304393626738668
+      "SpriteDestro\xE7os_14": 6126402133743730530
+      "SpriteDestro\xE7os_15": 4455065631727996703
+      "SpriteDestro\xE7os_2": -2847039442330841526
+      "SpriteDestro\xE7os_3": -2104855288587964163
+      "SpriteDestro\xE7os_4": 4567506925199453051
+      "SpriteDestro\xE7os_5": -368277589732061847
+      "SpriteDestro\xE7os_6": -7357483735119755682
+      "SpriteDestro\xE7os_7": 2483301593273950484
+      "SpriteDestro\xE7os_8": -5161618322322909371
+      "SpriteDestro\xE7os_9": -2538808816478932639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

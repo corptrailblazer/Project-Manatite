@@ -1,0 +1,84 @@
+{
+    "name": "ControlsBattleMap",
+    "maps": [
+        {
+            "name": "Forward",
+            "id": "d05af965-a400-43d1-8b35-528a1c734967",
+            "actions": [
+                {
+                    "name": "Hold",
+                    "type": "Button",
+                    "id": "ef2c6286-3dee-4883-8294-2b1ae3bf4e54",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "883444fb-1c96-4d1b-9c80-510209361440",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "47e12c27-009b-417b-b85b-c0e0b2b4821e",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "Reverse",
+            "id": "7c3031dc-8412-43e6-bda1-ca3eac34ba32",
+            "actions": [
+                {
+                    "name": "Hold",
+                    "type": "Button",
+                    "id": "90b20b15-1ed7-4890-8234-9af68bc09e11",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "80f4800a-c748-4e6b-af59-60b4c9298b45",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "dc19846c-34bf-4e3e-a83c-9bcca416baa8",
+                    "path": "<Touchscreen>/touch*/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Hold",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

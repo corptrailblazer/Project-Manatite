@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 0a6ae824101f6d34697f62a8036b06a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8331782631561629464
+    second: Sprite nave topdown-Sheet_0
+  - first:
+      213: -4789502606829684885
+    second: Sprite nave topdown-Sheet_1
+  - first:
+      213: 5426936948516935756
+    second: Sprite nave topdown-Sheet_2
+  - first:
+      213: 8073676740229320756
+    second: Sprite nave topdown-Sheet_3
+  - first:
+      213: 3803397854988355427
+    second: Sprite nave topdown-Sheet_4
+  - first:
+      213: 6047841676611058000
+    second: Sprite nave topdown-Sheet_5
+  - first:
+      213: -531908616967656371
+    second: Sprite nave topdown-Sheet_6
+  - first:
+      213: 3918392392381328337
+    second: Sprite nave topdown-Sheet_7
+  - first:
+      213: 7273049133163789897
+    second: Sprite nave topdown-Sheet_8
+  - first:
+      213: -1990848838830416185
+    second: Sprite nave topdown-Sheet_9
+  - first:
+      213: 7320417442934377492
+    second: Sprite nave topdown-Sheet_10
+  - first:
+      213: 7085848848123967593
+    second: Sprite nave topdown-Sheet_11
+  - first:
+      213: 3645755206073417361
+    second: Sprite nave topdown-Sheet_12
+  - first:
+      213: -6387931078294690443
+    second: Sprite nave topdown-Sheet_13
+  - first:
+      213: 5175010746560946683
+    second: Sprite nave topdown-Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f0004e82070a370800000000000000
+      internalID: 8331782631561629464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67fb1541c4488db0800000000000000
+      internalID: -4789502606829684885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c485bcac66a505b40800000000000000
+      internalID: 5426936948516935756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430d3b418367b0070800000000000000
+      internalID: 8073676740229320756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3674016a23268c430800000000000000
+      internalID: 3803397854988355427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059743846ff3ee350800000000000000
+      internalID: 6047841676611058000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c6ca85ee74e98f0800000000000000
+      internalID: -531908616967656371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db6b7ece1de06630800000000000000
+      internalID: 3918392392381328337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94eb03007af0fe460800000000000000
+      internalID: 7273049133163789897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce930077851f54e0800000000000000
+      internalID: -1990848838830416185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c4dad01e8579560800000000000000
+      internalID: 7320417442934377492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9683a842cfdf55260800000000000000
+      internalID: 7085848848123967593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e790c3b03589230800000000000000
+      internalID: 3645755206073417361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575219c67828957a0800000000000000
+      internalID: -6387931078294690443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite nave topdown-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf128990bd451d740800000000000000
+      internalID: 5175010746560946683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite nave topdown-Sheet_0: 8331782631561629464
+      Sprite nave topdown-Sheet_1: -4789502606829684885
+      Sprite nave topdown-Sheet_10: 7320417442934377492
+      Sprite nave topdown-Sheet_11: 7085848848123967593
+      Sprite nave topdown-Sheet_12: 3645755206073417361
+      Sprite nave topdown-Sheet_13: -6387931078294690443
+      Sprite nave topdown-Sheet_14: 5175010746560946683
+      Sprite nave topdown-Sheet_2: 5426936948516935756
+      Sprite nave topdown-Sheet_3: 8073676740229320756
+      Sprite nave topdown-Sheet_4: 3803397854988355427
+      Sprite nave topdown-Sheet_5: 6047841676611058000
+      Sprite nave topdown-Sheet_6: -531908616967656371
+      Sprite nave topdown-Sheet_7: 3918392392381328337
+      Sprite nave topdown-Sheet_8: 7273049133163789897
+      Sprite nave topdown-Sheet_9: -1990848838830416185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

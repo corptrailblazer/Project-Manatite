@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dcaf09d92982a944a35089457782077, type: 3}
+  m_Name: ExplosiveChip
+  m_EditorClassIdentifier: 
+  damagePct: 0.5
+  damageFlat: 0
+  fireRatePct: 0
+  fireRateFlat: 0
+  projSpeedPct: 0
+  projSpeedFlat: 0
+  modifier: {fileID: 11400000, guid: 21c9ba4f4ab7aed46af60ac1fec00650, type: 2}
+  chipName: Explosive Attack
+  effect: Slows your weapon, but it does more damage and explodes on projectile contact
+  dropRate: 0.5
+  sprite: {fileID: 6685162177361822405, guid: 0cb49ad2413b5ec4788a961be45fe7d2, type: 3}

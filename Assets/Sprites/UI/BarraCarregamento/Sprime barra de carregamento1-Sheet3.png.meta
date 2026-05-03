@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: e9a5bc59101ad21489e3989aa4e668ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2683321391219664502
+    second: Sprime barra de carregamento1-Sheet3_0
+  - first:
+      213: 5900692474630796989
+    second: Sprime barra de carregamento1-Sheet3_1
+  - first:
+      213: -2199621557105573408
+    second: Sprime barra de carregamento1-Sheet3_2
+  - first:
+      213: -1220681252883979457
+    second: Sprime barra de carregamento1-Sheet3_3
+  - first:
+      213: -5317988722644718457
+    second: Sprime barra de carregamento1-Sheet3_4
+  - first:
+      213: 5525027501004095633
+    second: Sprime barra de carregamento1-Sheet3_5
+  - first:
+      213: -5281138062686269419
+    second: Sprime barra de carregamento1-Sheet3_6
+  - first:
+      213: 8694790354808206140
+    second: Sprime barra de carregamento1-Sheet3_7
+  - first:
+      213: 3586694008374957026
+    second: Sprime barra de carregamento1-Sheet3_8
+  - first:
+      213: -521438442017379370
+    second: Sprime barra de carregamento1-Sheet3_9
+  - first:
+      213: 6625672881246062862
+    second: Sprime barra de carregamento1-Sheet3_10
+  - first:
+      213: -8771320120670068809
+    second: Sprime barra de carregamento1-Sheet3_11
+  - first:
+      213: 1566361674116086844
+    second: Sprime barra de carregamento1-Sheet3_12
+  - first:
+      213: 4738252643454464313
+    second: Sprime barra de carregamento1-Sheet3_13
+  - first:
+      213: -6354477534272787764
+    second: Sprime barra de carregamento1-Sheet3_14
+  - first:
+      213: 7244860347220098180
+    second: Sprime barra de carregamento1-Sheet3_15
+  - first:
+      213: -7162940668534811022
+    second: Sprime barra de carregamento1-Sheet3_16
+  - first:
+      213: 7206902616115349468
+    second: Sprime barra de carregamento1-Sheet3_17
+  - first:
+      213: 6812981532764113423
+    second: Sprime barra de carregamento1-Sheet3_18
+  - first:
+      213: 7231035133018829920
+    second: Sprime barra de carregamento1-Sheet3_19
+  - first:
+      213: -6994449579471777574
+    second: Sprime barra de carregamento1-Sheet3_20
+  - first:
+      213: -1837984679069776517
+    second: Sprime barra de carregamento1-Sheet3_21
+  - first:
+      213: 1544070043086546945
+    second: Sprime barra de carregamento1-Sheet3_22
+  - first:
+      213: 4979140197357598486
+    second: Sprime barra de carregamento1-Sheet3_23
+  - first:
+      213: -207733113875791459
+    second: Sprime barra de carregamento1-Sheet3_24
+  - first:
+      213: -469270585033318390
+    second: Sprime barra de carregamento1-Sheet3_25
+  - first:
+      213: -4545420421132586457
+    second: Sprime barra de carregamento1-Sheet3_26
+  - first:
+      213: 3199034556539385835
+    second: Sprime barra de carregamento1-Sheet3_27
+  - first:
+      213: -4838276974400324306
+    second: Sprime barra de carregamento1-Sheet3_28
+  - first:
+      213: -1726067899953567908
+    second: Sprime barra de carregamento1-Sheet3_29
+  - first:
+      213: 2954297100084645458
+    second: Sprime barra de carregamento1-Sheet3_30
+  - first:
+      213: 7162676870215310727
+    second: Sprime barra de carregamento1-Sheet3_31
+  - first:
+      213: -7867070492434880729
+    second: Sprime barra de carregamento1-Sheet3_32
+  - first:
+      213: 3389602079381560829
+    second: Sprime barra de carregamento1-Sheet3_33
+  - first:
+      213: 5537598390213650717
+    second: Sprime barra de carregamento1-Sheet3_34
+  - first:
+      213: 1571068917277756114
+    second: Sprime barra de carregamento1-Sheet3_35
+  - first:
+      213: -7285732178404661932
+    second: Sprime barra de carregamento1-Sheet3_36
+  - first:
+      213: 6038212913707140987
+    second: Sprime barra de carregamento1-Sheet3_37
+  - first:
+      213: 151783700123322764
+    second: Sprime barra de carregamento1-Sheet3_38
+  - first:
+      213: -4147192273522167688
+    second: Sprime barra de carregamento1-Sheet3_39
+  - first:
+      213: 1536611214422909428
+    second: Sprime barra de carregamento1-Sheet3_40
+  - first:
+      213: -7479149355350739338
+    second: Sprime barra de carregamento1-Sheet3_41
+  - first:
+      213: 3276696192937977642
+    second: Sprime barra de carregamento1-Sheet3_42
+  - first:
+      213: -1526070465801527702
+    second: Sprime barra de carregamento1-Sheet3_43
+  - first:
+      213: 3974129919057819474
+    second: Sprime barra de carregamento1-Sheet3_44
+  - first:
+      213: 7291300489093477481
+    second: Sprime barra de carregamento1-Sheet3_45
+  - first:
+      213: -900312137772061449
+    second: Sprime barra de carregamento1-Sheet3_46
+  - first:
+      213: 1548126847040829370
+    second: Sprime barra de carregamento1-Sheet3_47
+  - first:
+      213: 1190308363592768836
+    second: Sprime barra de carregamento1-Sheet3_48
+  - first:
+      213: -1518374000543858599
+    second: Sprime barra de carregamento1-Sheet3_49
+  - first:
+      213: 7452742634644203189
+    second: Sprime barra de carregamento1-Sheet3_50
+  - first:
+      213: -167992270090053374
+    second: Sprime barra de carregamento1-Sheet3_51
+  - first:
+      213: -4827505932710337264
+    second: Sprime barra de carregamento1-Sheet3_52
+  - first:
+      213: 1561068652408407211
+    second: Sprime barra de carregamento1-Sheet3_53
+  - first:
+      213: 6526585478226132493
+    second: Sprime barra de carregamento1-Sheet3_54
+  - first:
+      213: -7910749153578339303
+    second: Sprime barra de carregamento1-Sheet3_55
+  - first:
+      213: -2497511959671741966
+    second: Sprime barra de carregamento1-Sheet3_56
+  - first:
+      213: -8767405328433373098
+    second: Sprime barra de carregamento1-Sheet3_57
+  - first:
+      213: -1470497248182076123
+    second: Sprime barra de carregamento1-Sheet3_58
+  - first:
+      213: -4171938892050087840
+    second: Sprime barra de carregamento1-Sheet3_59
+  - first:
+      213: -6971225037485286200
+    second: Sprime barra de carregamento1-Sheet3_60
+  - first:
+      213: 5941369746383983610
+    second: Sprime barra de carregamento1-Sheet3_61
+  - first:
+      213: 1456090851644446288
+    second: Sprime barra de carregamento1-Sheet3_62
+  - first:
+      213: 4847585317446239543
+    second: Sprime barra de carregamento1-Sheet3_63
+  - first:
+      213: -7956928606044445121
+    second: Sprime barra de carregamento1-Sheet3_64
+  - first:
+      213: 5703075676191103834
+    second: Sprime barra de carregamento1-Sheet3_65
+  - first:
+      213: -8089850315554322486
+    second: Sprime barra de carregamento1-Sheet3_66
+  - first:
+      213: -3133755126380634152
+    second: Sprime barra de carregamento1-Sheet3_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprime barra de carregamento1-Sheet3_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 98
+        width: 140
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89152a596de2cad0800000000000000
+      internalID: -2683321391219664502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprime barra de carregamento1-Sheet3_0: -2683321391219664502
+      Sprime barra de carregamento1-Sheet3_1: 5900692474630796989
+      Sprime barra de carregamento1-Sheet3_10: 6625672881246062862
+      Sprime barra de carregamento1-Sheet3_11: -8771320120670068809
+      Sprime barra de carregamento1-Sheet3_12: 1566361674116086844
+      Sprime barra de carregamento1-Sheet3_13: 4738252643454464313
+      Sprime barra de carregamento1-Sheet3_14: -6354477534272787764
+      Sprime barra de carregamento1-Sheet3_15: 7244860347220098180
+      Sprime barra de carregamento1-Sheet3_16: -7162940668534811022
+      Sprime barra de carregamento1-Sheet3_17: 7206902616115349468
+      Sprime barra de carregamento1-Sheet3_18: 6812981532764113423
+      Sprime barra de carregamento1-Sheet3_19: 7231035133018829920
+      Sprime barra de carregamento1-Sheet3_2: -2199621557105573408
+      Sprime barra de carregamento1-Sheet3_20: -6994449579471777574
+      Sprime barra de carregamento1-Sheet3_21: -1837984679069776517
+      Sprime barra de carregamento1-Sheet3_22: 1544070043086546945
+      Sprime barra de carregamento1-Sheet3_23: 4979140197357598486
+      Sprime barra de carregamento1-Sheet3_24: -207733113875791459
+      Sprime barra de carregamento1-Sheet3_25: -469270585033318390
+      Sprime barra de carregamento1-Sheet3_26: -4545420421132586457
+      Sprime barra de carregamento1-Sheet3_27: 3199034556539385835
+      Sprime barra de carregamento1-Sheet3_28: -4838276974400324306
+      Sprime barra de carregamento1-Sheet3_29: -1726067899953567908
+      Sprime barra de carregamento1-Sheet3_3: -1220681252883979457
+      Sprime barra de carregamento1-Sheet3_30: 2954297100084645458
+      Sprime barra de carregamento1-Sheet3_31: 7162676870215310727
+      Sprime barra de carregamento1-Sheet3_32: -7867070492434880729
+      Sprime barra de carregamento1-Sheet3_33: 3389602079381560829
+      Sprime barra de carregamento1-Sheet3_34: 5537598390213650717
+      Sprime barra de carregamento1-Sheet3_35: 1571068917277756114
+      Sprime barra de carregamento1-Sheet3_36: -7285732178404661932
+      Sprime barra de carregamento1-Sheet3_37: 6038212913707140987
+      Sprime barra de carregamento1-Sheet3_38: 151783700123322764
+      Sprime barra de carregamento1-Sheet3_39: -4147192273522167688
+      Sprime barra de carregamento1-Sheet3_4: -5317988722644718457
+      Sprime barra de carregamento1-Sheet3_40: 1536611214422909428
+      Sprime barra de carregamento1-Sheet3_41: -7479149355350739338
+      Sprime barra de carregamento1-Sheet3_42: 3276696192937977642
+      Sprime barra de carregamento1-Sheet3_43: -1526070465801527702
+      Sprime barra de carregamento1-Sheet3_44: 3974129919057819474
+      Sprime barra de carregamento1-Sheet3_45: 7291300489093477481
+      Sprime barra de carregamento1-Sheet3_46: -900312137772061449
+      Sprime barra de carregamento1-Sheet3_47: 1548126847040829370
+      Sprime barra de carregamento1-Sheet3_48: 1190308363592768836
+      Sprime barra de carregamento1-Sheet3_49: -1518374000543858599
+      Sprime barra de carregamento1-Sheet3_5: 5525027501004095633
+      Sprime barra de carregamento1-Sheet3_50: 7452742634644203189
+      Sprime barra de carregamento1-Sheet3_51: -167992270090053374
+      Sprime barra de carregamento1-Sheet3_52: -4827505932710337264
+      Sprime barra de carregamento1-Sheet3_53: 1561068652408407211
+      Sprime barra de carregamento1-Sheet3_54: 6526585478226132493
+      Sprime barra de carregamento1-Sheet3_55: -7910749153578339303
+      Sprime barra de carregamento1-Sheet3_56: -2497511959671741966
+      Sprime barra de carregamento1-Sheet3_57: -8767405328433373098
+      Sprime barra de carregamento1-Sheet3_58: -1470497248182076123
+      Sprime barra de carregamento1-Sheet3_59: -4171938892050087840
+      Sprime barra de carregamento1-Sheet3_6: -5281138062686269419
+      Sprime barra de carregamento1-Sheet3_60: -6971225037485286200
+      Sprime barra de carregamento1-Sheet3_61: 5941369746383983610
+      Sprime barra de carregamento1-Sheet3_62: 1456090851644446288
+      Sprime barra de carregamento1-Sheet3_63: 4847585317446239543
+      Sprime barra de carregamento1-Sheet3_64: -7956928606044445121
+      Sprime barra de carregamento1-Sheet3_65: 5703075676191103834
+      Sprime barra de carregamento1-Sheet3_66: -8089850315554322486
+      Sprime barra de carregamento1-Sheet3_67: -3133755126380634152
+      Sprime barra de carregamento1-Sheet3_7: 8694790354808206140
+      Sprime barra de carregamento1-Sheet3_8: 3586694008374957026
+      Sprime barra de carregamento1-Sheet3_9: -521438442017379370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

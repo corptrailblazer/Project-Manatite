@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 9b390126cd701564b9c18298b24a368f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1101438791771050169
+    second: "Spritecampofor\xE7a sheet_0"
+  - first:
+      213: 2872864550466142852
+    second: "Spritecampofor\xE7a sheet_1"
+  - first:
+      213: -1463070378818922540
+    second: "Spritecampofor\xE7a sheet_2"
+  - first:
+      213: 1256851249139797839
+    second: "Spritecampofor\xE7a sheet_3"
+  - first:
+      213: -1670112196877366187
+    second: "Spritecampofor\xE7a sheet_4"
+  - first:
+      213: -4229596946732810508
+    second: "Spritecampofor\xE7a sheet_5"
+  - first:
+      213: -5677137526963183842
+    second: "Spritecampofor\xE7a sheet_6"
+  - first:
+      213: -2602825224549438151
+    second: "Spritecampofor\xE7a sheet_7"
+  - first:
+      213: 2362025007282013783
+    second: "Spritecampofor\xE7a sheet_8"
+  - first:
+      213: 4535445682255252081
+    second: "Spritecampofor\xE7a sheet_9"
+  - first:
+      213: -3048867242719872776
+    second: "Spritecampofor\xE7a sheet_10"
+  - first:
+      213: 4737618786447705171
+    second: "Spritecampofor\xE7a sheet_11"
+  - first:
+      213: -4112918860352076397
+    second: "Spritecampofor\xE7a sheet_12"
+  - first:
+      213: -5125241945194815613
+    second: "Spritecampofor\xE7a sheet_13"
+  - first:
+      213: -4313407095642187499
+    second: "Spritecampofor\xE7a sheet_14"
+  - first:
+      213: 1789059371665511716
+    second: "Spritecampofor\xE7a sheet_15"
+  - first:
+      213: 4783472333445966688
+    second: "Spritecampofor\xE7a sheet_16"
+  - first:
+      213: -1271480287231741483
+    second: "Spritecampofor\xE7a sheet_17"
+  - first:
+      213: -8137027998206023660
+    second: "Spritecampofor\xE7a sheet_18"
+  - first:
+      213: -1298428954990056233
+    second: "Spritecampofor\xE7a sheet_19"
+  - first:
+      213: 1609136591648948999
+    second: "Spritecampofor\xE7a sheet_20"
+  - first:
+      213: -8010087252235494105
+    second: "Spritecampofor\xE7a sheet_21"
+  - first:
+      213: 8539471469092476054
+    second: "Spritecampofor\xE7a sheet_22"
+  - first:
+      213: -343691276215052297
+    second: "Spritecampofor\xE7a sheet_23"
+  - first:
+      213: 4175780947980366941
+    second: "Spritecampofor\xE7a sheet_24"
+  - first:
+      213: 3785165604509499358
+    second: "Spritecampofor\xE7a sheet_25"
+  - first:
+      213: 7469900693301284626
+    second: "Spritecampofor\xE7a sheet_26"
+  - first:
+      213: 5867559955419907750
+    second: "Spritecampofor\xE7a sheet_27"
+  - first:
+      213: 3227840092098943071
+    second: "Spritecampofor\xE7a sheet_28"
+  - first:
+      213: -7442102079471782550
+    second: "Spritecampofor\xE7a sheet_29"
+  - first:
+      213: 3214182694519571166
+    second: "Spritecampofor\xE7a sheet_30"
+  - first:
+      213: -2597315306378937011
+    second: "Spritecampofor\xE7a sheet_31"
+  - first:
+      213: -6127344837934725505
+    second: "Spritecampofor\xE7a sheet_32"
+  - first:
+      213: 5642617436852415574
+    second: "Spritecampofor\xE7a sheet_33"
+  - first:
+      213: -446325822761993776
+    second: "Spritecampofor\xE7a sheet_34"
+  - first:
+      213: -1980107151136185949
+    second: "Spritecampofor\xE7a sheet_35"
+  - first:
+      213: 2818885352848296313
+    second: "Spritecampofor\xE7a sheet_36"
+  - first:
+      213: 7026395753457196805
+    second: "Spritecampofor\xE7a sheet_37"
+  - first:
+      213: 1889001309076444939
+    second: "Spritecampofor\xE7a sheet_38"
+  - first:
+      213: 2465263847166951137
+    second: "Spritecampofor\xE7a sheet_39"
+  - first:
+      213: 4184609451179255084
+    second: "Spritecampofor\xE7a sheet_40"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Spritecampofor\xE7a sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 8
+        width: 109
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa6aa2147e6b0f0800000000000000
+      internalID: -1101438791771050169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritecampofor\xE7a sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 20
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c85a66177ed720800000000000000
+      internalID: 2872864550466142852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritecampofor\xE7a sheet_0"
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef9ee7cf37d45c0800000000000000
+      internalID: -4229596946732810508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Spritecampofor\xE7a sheet_1"
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 108
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb0d8001c978430800000000000000
+      internalID: 3785165604509499358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0da251a07c70fef46a8e0d4f42917392
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Spritecampofor\xE7a sheet_0": -4229596946732810508
+      "Spritecampofor\xE7a sheet_1": 3785165604509499358
+      "Spritecampofor\xE7a sheet_10": -3048867242719872776
+      "Spritecampofor\xE7a sheet_11": 4737618786447705171
+      "Spritecampofor\xE7a sheet_12": -4112918860352076397
+      "Spritecampofor\xE7a sheet_13": -5125241945194815613
+      "Spritecampofor\xE7a sheet_14": -4313407095642187499
+      "Spritecampofor\xE7a sheet_15": 1789059371665511716
+      "Spritecampofor\xE7a sheet_16": 4783472333445966688
+      "Spritecampofor\xE7a sheet_17": -1271480287231741483
+      "Spritecampofor\xE7a sheet_18": -8137027998206023660
+      "Spritecampofor\xE7a sheet_19": -1298428954990056233
+      "Spritecampofor\xE7a sheet_2": -1101438791771050169
+      "Spritecampofor\xE7a sheet_20": 1609136591648948999
+      "Spritecampofor\xE7a sheet_21": -8010087252235494105
+      "Spritecampofor\xE7a sheet_22": 8539471469092476054
+      "Spritecampofor\xE7a sheet_23": -343691276215052297
+      "Spritecampofor\xE7a sheet_24": 4175780947980366941
+      "Spritecampofor\xE7a sheet_26": 7469900693301284626
+      "Spritecampofor\xE7a sheet_27": 5867559955419907750
+      "Spritecampofor\xE7a sheet_28": 3227840092098943071
+      "Spritecampofor\xE7a sheet_29": -7442102079471782550
+      "Spritecampofor\xE7a sheet_3": 2872864550466142852
+      "Spritecampofor\xE7a sheet_30": 3214182694519571166
+      "Spritecampofor\xE7a sheet_31": -2597315306378937011
+      "Spritecampofor\xE7a sheet_32": -6127344837934725505
+      "Spritecampofor\xE7a sheet_33": 5642617436852415574
+      "Spritecampofor\xE7a sheet_34": -446325822761993776
+      "Spritecampofor\xE7a sheet_35": -1980107151136185949
+      "Spritecampofor\xE7a sheet_36": 2818885352848296313
+      "Spritecampofor\xE7a sheet_37": 7026395753457196805
+      "Spritecampofor\xE7a sheet_38": 1889001309076444939
+      "Spritecampofor\xE7a sheet_39": 2465263847166951137
+      "Spritecampofor\xE7a sheet_4": -1670112196877366187
+      "Spritecampofor\xE7a sheet_40": 4184609451179255084
+      "Spritecampofor\xE7a sheet_6": -5677137526963183842
+      "Spritecampofor\xE7a sheet_7": -2602825224549438151
+      "Spritecampofor\xE7a sheet_8": 2362025007282013783
+      "Spritecampofor\xE7a sheet_9": 4535445682255252081
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

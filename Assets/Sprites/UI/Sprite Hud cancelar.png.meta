@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: de514f9e39cbc134b874d7fd98e6c3a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5955823308778866056
+    second: Sprite Hud cancelar_0
+  - first:
+      213: -2884650122311605441
+    second: Sprite Hud cancelar_1
+  - first:
+      213: -8300838061916251147
+    second: Sprite Hud cancelar_2
+  - first:
+      213: -3095738727206249379
+    second: Sprite Hud cancelar_3
+  - first:
+      213: -3532379210210177840
+    second: Sprite Hud cancelar_4
+  - first:
+      213: 8196712098562710934
+    second: Sprite Hud cancelar_5
+  - first:
+      213: -8249987528611316839
+    second: Sprite Hud cancelar_6
+  - first:
+      213: 4861636131383337625
+    second: Sprite Hud cancelar_7
+  - first:
+      213: -1624140161830859373
+    second: Sprite Hud cancelar_8
+  - first:
+      213: 4053912607511751025
+    second: Sprite Hud cancelar_9
+  - first:
+      213: 4179065972039822522
+    second: Sprite Hud cancelar_10
+  - first:
+      213: -5053468572892580671
+    second: Sprite Hud cancelar_11
+  - first:
+      213: -253664360222415637
+    second: Sprite Hud cancelar_12
+  - first:
+      213: 7987966471199672948
+    second: Sprite Hud cancelar_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 29
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88581c87eb557a250800000000000000
+      internalID: 5955823308778866056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33645e4ff9a7f7d0800000000000000
+      internalID: -2884650122311605441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 29
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb907d23cf7dcc80800000000000000
+      internalID: -8300838061916251147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 27
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c937f870ab905d0800000000000000
+      internalID: -3095738727206249379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 39
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc827bd2d77afec0800000000000000
+      internalID: -3532379210210177840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d1af0c93290c170800000000000000
+      internalID: 8196712098562710934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b38b39d08228d80800000000000000
+      internalID: -8249987528611316839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992ee4ead40087340800000000000000
+      internalID: 4861636131383337625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 22
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d40acb025e579e0800000000000000
+      internalID: -1624140161830859373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1792739b904624830800000000000000
+      internalID: 4053912607511751025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2b542c560ff930800000000000000
+      internalID: 4179065972039822522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4332d7b197ed9b0800000000000000
+      internalID: -5053468572892580671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be424ccbb9dca7cf0800000000000000
+      internalID: -253664360222415637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Hud cancelar_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 10
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a4699fe25fade60800000000000000
+      internalID: 7987966471199672948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sprite Hud cancelar_0: 5955823308778866056
+      Sprite Hud cancelar_1: -2884650122311605441
+      Sprite Hud cancelar_10: 4179065972039822522
+      Sprite Hud cancelar_11: -5053468572892580671
+      Sprite Hud cancelar_12: -253664360222415637
+      Sprite Hud cancelar_13: 7987966471199672948
+      Sprite Hud cancelar_2: -8300838061916251147
+      Sprite Hud cancelar_3: -3095738727206249379
+      Sprite Hud cancelar_4: -3532379210210177840
+      Sprite Hud cancelar_5: 8196712098562710934
+      Sprite Hud cancelar_6: -8249987528611316839
+      Sprite Hud cancelar_7: 4861636131383337625
+      Sprite Hud cancelar_8: -1624140161830859373
+      Sprite Hud cancelar_9: 4053912607511751025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
