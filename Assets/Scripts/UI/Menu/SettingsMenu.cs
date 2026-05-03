@@ -18,6 +18,13 @@ public class SettingsMenu : MonoBehaviour
 
     private Resolution[] resolutions;
 
+    private void Awake()
+    {
+        CanvasGroup cg = GetComponent<CanvasGroup>();
+        if (cg == null) cg = gameObject.AddComponent<CanvasGroup>();
+        cg.ignoreParentGroups = true;
+    }
+
     void Start()
     {
         // Load Audio Settings
@@ -127,6 +134,12 @@ public class SettingsMenu : MonoBehaviour
     public void Open()
     {
         gameObject.SetActive(true);
+    }
+
+    public void Toggle()
+    {
+        if (gameObject.activeSelf) CloseSettings();
+        else Open();
     }
 
     public void CloseSettings()
